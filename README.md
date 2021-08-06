@@ -2,15 +2,16 @@
 
 Unfortunately the code for this project was not allowed to be shared widely:( 
 
-\newline But you can check a nice wiki on work that was done during my Industrial Immersion:)) 
-\newline Hope it will be useful for some of you. https://github.com/Kate-sk/Magic_hat.wiki.git
+But you can check a nice wiki on work that was done during my Industrial Immersion:)) 
+
+Hope it will be useful for some of you. https://github.com/Kate-sk/Magic_hat.wiki.git
 
 __Have fun and enjoy video!__
 
 <div align="center">
       <a href="https://www.youtu.be/4PKv1ad8Pvk">
      <img 
-      src="https://img.youtube.com/vi/4PKv1ad8Pvk/0.jpg" 
+      src="https://img.youtube.com/vi/4PKv1ad8Pvk/-1.jpg" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
