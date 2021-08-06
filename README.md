@@ -11,7 +11,7 @@ __Have fun and enjoy video!__
 <div align="center">
       <a href="https://www.youtu.be/4PKv1ad8Pvk">
      <img 
-      src="https://img.youtube.com/vi/4PKv1ad8Pvk/1.jpg" 
+      src="https://img.youtube.com/vi/4PKv1ad8Pvk/0.jpg" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
